@@ -6,7 +6,7 @@ left: 313px;}
 .h-1{
     font-size: 18px;
     font-family: 'Cairo', sans-serif;
-    padding-right: 20px;
+    padding-right: 565px;
 }
 
 
@@ -28,7 +28,7 @@ font-family: 'Cairo', sans-serif;
     text-align: center;
     align-items: center;
     margin-right: 14px;
-    color: white;
+    margin-right: 560px;
     background-color: #5e6fd5;
     border: 1px solid white;
     font-family: 'Cairo', sans-serif;
@@ -47,4 +47,11 @@ font-family: 'Cairo', sans-serif;
     top: 38px;
     right: 14px;
     padding-top: 25px;
+    padding-right: 550px;
+}
+.hr{
+    padding-right: 550px;
+}
+.pp-1{
+    color: white;
 }

@@ -8,6 +8,7 @@
     border:1px solid gray ;
     box-shadow: 0 4px 8px gray;
     background-color: white;
+    padding-left: 28px;
 }
 .div-1{
 padding: 147px 78px 499px 78px;
@@ -46,10 +47,13 @@ margin: 160px 43px 20px 1px;
     height: 35px; 
     background-color: #5e6fd5;
     border: 1px solid white;
-    color: white;
+    
     padding: 7px 78px 0px 78px;
     font-size: 10px;
     font-family: 'Cairo', sans-serif;
     border-radius: 10px;
     margin-left: -15px;
+}
+.p-2{
+    color: white;
 }

@@ -12,7 +12,7 @@ body{
 .img{
     width: 124px;
     height: 72px;
-    padding: 109px 66px 85px 72px;
+    padding: 109px 66px 85px 96px;
     text-align: center;
 }
 .h-1{
@@ -64,7 +64,10 @@ body{
     border-radius: 6px;
     font-family: 'Cairo', sans-serif;
     font-size: 13px;
-    color: white;
+   
     background-color: #5e6fd5;
     border: 1px solid white;
+}
+.p-1{
+    color: white; 
 }
