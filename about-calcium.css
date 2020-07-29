@@ -7,16 +7,10 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background-color: #f8f6f5;
     
 }
 
-.img{
-    width: 115px;
-    height: 65px;
-    padding-top: 33px;
 
-}
 .calcium-2{
     font-family: 'Tajawal', sans-serif;
     text-align: center;
@@ -42,12 +36,13 @@ body {
     color: #11243D;
     opacity: 1;
     font-family: 'Scheherazade', serif;
-    padding-right: 20px;
+    padding-right: 600px;
 }
 
 .back{
-    padding: 10px 10px 12px 30px;
+    padding-right: 550px;
     width: 35px;
     height: 25px;
     margin: -41px 21px 29px 2px;
+    padding-top: 100px;
 }
