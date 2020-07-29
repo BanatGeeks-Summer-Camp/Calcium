@@ -1,0 +1,70 @@
+body{
+    height: 800px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border:1px solid gray ;
+    box-shadow: 0 4px 8px gray;
+    background-color: white;
+    width: 341px;
+}
+.img{
+    width: 124px;
+    height: 72px;
+    padding: 109px 66px 85px 72px;
+    text-align: center;
+}
+.h-1{
+    font-family: 'Cairo', sans-serif;
+    font-size: 15px;
+    text-align: right;
+    padding: 4px 28px 0px 130px;
+   margin-top: -102px;
+    color: rgb(117, 19, 245);
+}
+.div{
+    background-color: paleturquoise;
+}
+.img-1{
+    width: 310px;
+    height: 104px;
+    margin: 9px 10px 6px 11px;
+}
+.a-1{
+    font-family: 'Cairo', sans-serif;
+    font-size: 10px;
+    padding: 0px 32px 10px 12px;
+    margin-top: 5px;
+    text-align: right;
+    color: maroon;
+}
+.a-2{
+    font-family: 'Cairo', sans-serif;
+    font-size: 10px;
+    padding: 0px 34px 2px 5px;
+    margin-top: -28px;
+    text-align: right;
+    color: dimgray;
+}
+.button{
+    width: 100px;
+    height: 29px;
+    margin: 13px 17px 12px 31px;
+    border-radius: 6px;
+    font-family: 'Cairo', sans-serif; 
+       font-size: 13px;
+       background-color: #ffab43;
+       border: 1px solid white;
+}
+.button-1{
+    width: 100px;
+    height: 29px;
+    margin: 13px 17px 12px -10px;
+    border-radius: 6px;
+    font-family: 'Cairo', sans-serif;
+    font-size: 13px;
+    color: white;
+    background-color: #5e6fd5;
+    border: 1px solid white;
+}

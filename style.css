@@ -1,0 +1,55 @@
+
+.calcium {
+    height: 800px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    border:1px solid gray ;
+    box-shadow: 0 4px 8px gray;
+    background-color: white;
+}
+.div-1{
+padding: 147px 78px 499px 78px;
+}
+.img{
+    width: 218px;
+    height:92px ;
+    text-align: center;
+    margin-left: -13px;
+}
+.p-1{
+    font-family: 'Cairo', sans-serif;
+    font-size: 16px;
+    color: var(--unnamed-color-000000);
+    margin-left: 40px;
+}
+
+.but{
+display: flex;
+flex-direction: column;
+margin: 160px 43px 20px 1px;
+    width: 223px;
+    height: 35px;
+   background-color: #6ee6dd;
+   border: 1px solid white;
+   padding: 7px 78px 0px 78px;
+   font-size: 11px;
+   font-family: 'Cairo', sans-serif;
+   border-radius: 10px;
+   margin-left: -15px;
+}
+.butt{
+    display: flex;
+    flex-direction: column ;
+    width: 223px;
+    height: 35px; 
+    background-color: #5e6fd5;
+    border: 1px solid white;
+    color: white;
+    padding: 7px 78px 0px 78px;
+    font-size: 10px;
+    font-family: 'Cairo', sans-serif;
+    border-radius: 10px;
+    margin-left: -15px;
+}

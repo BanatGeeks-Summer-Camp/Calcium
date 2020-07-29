@@ -1,0 +1,53 @@
+body {
+    padding: 0;
+}
+.calcium {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #f8f6f5;
+    
+}
+
+.img{
+    width: 115px;
+    height: 65px;
+    padding-top: 33px;
+
+}
+.calcium-2{
+    font-family: 'Tajawal', sans-serif;
+    text-align: center;
+    font: Regular var(--unnamed-font-size-13)/var(--unnamed-line-spacing-30) var(--unnamed-font-family-cairo);
+    letter-spacing: var(--unnamed-character-spacing-0);
+    color: var(--unnamed-color-11243d);
+    font: Regular 13px/30px Cairo;
+    letter-spacing: 0px;
+    color: #5E6FD5;
+   opacity: 1;
+
+
+}
+.calcium-3{
+    top: 304px;
+    left: 20px;
+    width: 310px;
+    height: 388px;
+    font-size: 21px;
+    color: var(--unnamed-color-11243d);
+    text-align: right;
+    letter-spacing: 0px;
+    color: #11243D;
+    opacity: 1;
+    font-family: 'Scheherazade', serif;
+    padding-right: 20px;
+}
+
+.back{
+    padding: 10px 10px 12px 30px;
+    width: 35px;
+    height: 25px;
+    margin: -41px 21px 29px 2px;
+}
