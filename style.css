@@ -1,14 +1,11 @@
 
 .calcium {
-    height: 800px;
+    width: 100%;
+    height: 100%;
     position: absolute;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%,-50%);
-    border:1px solid gray ;
-    box-shadow: 0 4px 8px gray;
-    background-color: white;
-    padding-left: 28px;
+    top: 0;
+    left: 0;
+    padding-left: 500px;
 }
 .div-1{
 padding: 147px 78px 499px 78px;
